@@ -95,13 +95,13 @@ I’m a software engineer with strong problem-solving and extensive knowledge an
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bahaa-Fadhil&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=220)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bahaa-Fadhil&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=220)](https://github.com/bahaa-fadhil)
 
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bahaa-Fadhil" />
 </a>
-<a href="https://github.com/openlayers/openlayers">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bahaa-Fadhil&layout=compact&langs_count=8&card_width=320" />
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bahaa-Fadhil&layout=compact&langs_count=8&card_width=340" />
 </a>
 
 ---
