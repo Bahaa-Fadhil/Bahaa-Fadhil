@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bahaa Fadhil
 
-### Software Engineer | FullStack | Digital Maestro |  MSc. Management Information Systems
+### Software Engineer | FullStack Development |  MSc. Management Information Systems
 ---
 
 ##  About Me
